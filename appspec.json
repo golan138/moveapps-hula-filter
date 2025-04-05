@@ -1,0 +1,14 @@
+{
+  "name": "Geographic Filter Hula Valley",
+  "description": "Filter GPS points within the geographic bounds of Hula Valley",
+  "version": "0.1.0",
+  "input": {
+    "type": "movestack",
+    "required": true
+  },
+  "output": {
+    "type": "movestack"
+  },
+  "language": "python",
+  "repository": "https://github.com/golan138/moveapps-hula-filter"
+}
