@@ -25,7 +25,10 @@
       "middleInitials": null,
       "lastName": "Reichmann",
       "email": "golanlichen@gmail.com",
-      "roles": ["author", "creator"],
+      "roles": [
+        "author",
+        "creator"
+      ],
       "orcid": null,
       "affiliation": null,
       "affiliationRor": null
@@ -33,5 +36,5 @@
   ],
   "documentation": {
     "url": "https://github.com/golan138/moveapps-hula-filter/blob/main/README.md"
-}
+  }
 }
